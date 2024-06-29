@@ -15,7 +15,6 @@ const Index = () => {
       <header className="text-center">
         <h1 className="text-4xl font-bold">eConsult International</h1>
         <p className="text-xl mt-2">Your trusted lubricant agent for Gulf Oil</p>
-        <p className="text-lg mt-2 text-red-600">Econsult International Ltd is an agent for Gulf Oil in Sri Lanka</p>
       </header>
       <main className="w-full flex flex-col items-center">
         <section className="w-3/4 mb-8">
